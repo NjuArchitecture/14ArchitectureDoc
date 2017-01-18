@@ -26,6 +26,7 @@
     font-family:Consolas,"Microsoft YaHei UI","Liberation Mono",Menlo,Courier,monospace
 }
 
-.js-toolbar-action{
+
+.book-header .pull-right{
     display: none
 }
