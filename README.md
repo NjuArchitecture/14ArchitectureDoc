@@ -18,3 +18,5 @@ QQ:  705103197
 ### 链接
 
 本文的[github地址](https://github.com/NJUShenbin/ArchitectureDoc)
+
+本文的[在线阅读地址](http://115.159.41.136:8080/ArchitectureDoc)
