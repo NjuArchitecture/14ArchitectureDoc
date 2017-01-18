@@ -18,3 +18,7 @@
                Arial,
                sans-serif;
  }
+
+.page-inner{
+    max-width: 80%
+}
