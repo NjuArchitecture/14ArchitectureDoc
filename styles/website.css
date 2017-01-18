@@ -25,3 +25,7 @@
 .markdown-section code {
     font-family:Consolas,"Microsoft YaHei UI","Liberation Mono",Menlo,Courier,monospace
 }
+
+.js-toolbar-action{
+    display: none
+}
