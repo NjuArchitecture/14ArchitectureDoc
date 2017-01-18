@@ -22,3 +22,6 @@
 .page-inner{
     max-width: 80%
 }
+.markdown-section code {
+    font-family:"Microsoft YaHei UI",Consolas,"Liberation Mono",Menlo,Courier,monospace
+}
