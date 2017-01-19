@@ -26,6 +26,9 @@
     font-family:Consolas,"Microsoft YaHei UI","Liberation Mono",Menlo,Courier,monospace
 }
 
+.gitbook-link{
+    display:none
+}
 
 .book-header .pull-right{
     display: none
