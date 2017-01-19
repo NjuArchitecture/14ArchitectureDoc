@@ -1,6 +1,5 @@
 {
     "plugins": [
         "splitter",
-        "search-jieba"
     ]
 }
