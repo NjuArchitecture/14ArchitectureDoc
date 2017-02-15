@@ -21,4 +21,4 @@ QQ:  705103197
 
 本文的[github地址](https://github.com/NjuArchitecture/ArchitectureDoc)
 
-本文的[在线阅读地址](http://115.159.41.136:8080/ArchitectureDoc)
+本文的[在线阅读地址](http://115.159.41.136:8080/14ArchitectureDoc)
